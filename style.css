@@ -1,0 +1,26 @@
+body {
+	background: #da6778;
+	color: white;
+}
+h1 {
+	font-family: Arial Black;
+	font-style: bold;
+	font-size: 46px;
+}
+h4 {
+	font-family: arial Black;
+	font-style: bold;
+	font-size: 20px;
+}
+input {
+	width: 99%;
+}
+button {
+	background: #75b9ea;
+	border: none;
+	padding: 7px 13px;
+	color: black;
+	font-size: 15px;
+
+}
+
